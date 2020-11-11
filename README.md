@@ -7,3 +7,5 @@
 [byte_of_python_chinese_edition](byte-of-python-chinese-edition.pdf)
 
 [HTTP权威指南1.0](HTTP权威指南.pdf)
+
+[《go语言圣经》](gopl-zh.pdf)
